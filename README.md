@@ -12,6 +12,6 @@ Reverse Chronological David Lynch Movie Marathon
 | Twin Peaks: Fire Walk with Me | 1992 | |
 | Wild At Heart | 1990 | |
 | Blue Velvet | 1986 | |
-| Dune | 1984 | acquired by ([bcomnes](https://github.com/bcomnes)) |
+| Dune | 1984 | acquired by [bcomnes](https://github.com/bcomnes) |
 | The Elephant Man | 1980 | |
 | Eraserhead | 1977 | |
