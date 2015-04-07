@@ -1,4 +1,4 @@
-# race-to-eraserhead
+# Race to Eraserhead
 
 Reverse Chronological David Lynch Movie Marathon
 
