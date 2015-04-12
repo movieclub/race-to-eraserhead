@@ -17,5 +17,7 @@ Reverse Chronological David Lynch Movie Marathon
 | Eraserhead | 1977 | AI, MM, Nx |
 
 *AI - Amazon Instant $3.99 HD, $2.99 SD*
+
 *MM - Movie Madness DVD*
+
 *Nx - Netflix DVD*
