@@ -4,18 +4,6 @@ Reverse Chronological David Lynch Movie Marathon
 
 ## table of dreams
 
-**Legend**
-
-* `AI` - Amazon Instant $3.99 HD, $2.99 SD
-* `MM` - Movie Madness DVD
-* `Nx` - Netflix DVD
-
-# Race to Eraserhead
-
-Reverse Chronological David Lynch Movie Marathon
-
-## table of dreams
-
 | title | year | how | when |
 | ----- | ---- | --- | ---- |
 | Inland Empire | 2006 | `Nx`, `MM` | 8p @ [EsriPDX](http://calagator.org/venues/202394387), 2015-04-23 |
