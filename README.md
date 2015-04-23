@@ -18,7 +18,7 @@ Reverse Chronological David Lynch Movie Marathon
 
 | title | year | how | when |
 | ----- | ---- | --- | ---- |
-| Inland Empire | 2006 | `Nx`, `MM` | 8p @ EsriPDX, 2015-04-23 |
+| Inland Empire | 2006 | `Nx`, `MM` | 8p @ [EsriPDX](http://calagator.org/venues/202394387), 2015-04-23 |
 | Rabbits | 2002 | YouTube | |
 | Mulholland Drive | 2001 | `AI`, `MM` | |
 | The Straight Story | 1999 | `MM` | |
